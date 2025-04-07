@@ -20,7 +20,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBMIl-fXrv406O8gOBGZwKXpmNoDLIIFj8"
+          "current_key": "API-KEY-Here"
         }
       ],
       "services": {
@@ -37,3 +37,4 @@
   ],
   "configuration_version": "1"
 }
+
